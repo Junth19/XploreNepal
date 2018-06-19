@@ -82,14 +82,14 @@
                     android:textSize="20dp" />
 
                 <EditText
-                    android:id="@+id/editText2"
+                    android:id="@+id/userAddress"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="7dp"
-                    android:inputType="textPersonName"
+                    android:inputType="text"
                     android:textSize="14dp"
                     android:textColor=" #800000 "
-                    android:text="@string/gpsOn" />
+                    android:text="@string/gpsOn"/>
 
 
             </LinearLayout>
@@ -109,10 +109,13 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginBottom="27dp"
                 android:background="#FF4500"
+                android:onClick="homePage"
                 android:text="CONTINUE" />
         </RelativeLayout>
 
 
     </LinearLayout>
+
+
 
 </android.support.constraint.ConstraintLayout>
