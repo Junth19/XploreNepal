@@ -8,4 +8,6 @@
     <string name="yourCurrentLocation">Your Current Location</string>
 
     <string name="gpsOn">Location Permission Denied</string>
+    
+    <string name="title_activity_maps">Map</string>
 </resources>
