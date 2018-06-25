@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">XploreNepal</string>
+    <string name="app_name">Xplore Nepal</string>
 
     <string name="welcome">WELCOME!</string>
 
@@ -8,6 +8,6 @@
     <string name="yourCurrentLocation">Your Current Location</string>
 
     <string name="gpsOn">Location Permission Denied</string>
-    
+
     <string name="title_activity_maps">Map</string>
 </resources>

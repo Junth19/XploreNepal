@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "779367113838",
+    "firebase_url": "https://xplore-nepal-8dc9e.firebaseio.com",
+    "project_id": "xplore-nepal-8dc9e",
+    "storage_bucket": "xplore-nepal-8dc9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779367113838:android:71916b35cc4f15ea",
+        "android_client_info": {
+          "package_name": "com.example.junth.xplorenepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779367113838-66v9uq78kj7u4kheht6091ui6e06io44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.junth.xplorenepal",
+            "certificate_hash": "21331621ac2369d159f5a310a866a6b036f2537d"
+          }
+        },
+        {
+          "client_id": "779367113838-qj4holjjq3of21u8hbgt7psich0ftjse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_YbvVRCxcpdKDn4DOuqgjrsxmzOEq7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779367113838-qj4holjjq3of21u8hbgt7psich0ftjse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
